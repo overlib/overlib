@@ -3,7 +3,7 @@
 
 Javascript popup library by Erik Bosrup
 
-Note that his [license](http://www.bosrup.com/web/overlib/?License) 
+Note that his [license](http://opensource.org/licenses/artistic-license-1.0) 
 requires you to keep his copyright notice at the top of the overlib.js.
 
 This is a place to store fixes and updates added by the community.    
